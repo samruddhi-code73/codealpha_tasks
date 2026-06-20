@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unemployment Analysis in India
 
 ##  Overview
@@ -38,3 +39,6 @@ The analysis highlights the impact of COVID-19, regional disparities, and season
 ## Author
 
 Samruddhi Bhowood
+=======
+# codealpha_tasks
+>>>>>>> c6274b1abf473ae7cef0d5b71575ae3586cefd8e
